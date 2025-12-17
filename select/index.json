@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "DEATH と LOVE",
+  "base_artist": "Base Ball Bear",
+  "createdAt": "2025-12-17T16:16:50.065656Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Death Thing",
+      "artist": "Amanda Palmer",
+      "has_synced": true,
+      "path": "select/01_Death_Thing_Amanda_Palmer.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Death of a Strawberry (Tree City Sessions)",
+      "artist": "Dance Gavin Dance",
+      "has_synced": true,
+      "path": "select/02_Death_of_a_Strawberry_(Tree_City_Sessions)_Dance_Gavin_Dance.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Death Of A Strawberry",
+      "artist": "Dance Gavin Dance",
+      "has_synced": true,
+      "path": "select/03_Death_Of_A_Strawberry_Dance_Gavin_Dance.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "BB's Theme (from Death Stranding)",
+      "artist": "Ludvig Forssell feat. Jenny Plant",
+      "has_synced": true,
+      "path": "select/04_BB's_Theme_(from_Death_Stranding)_Ludvig_Forssell_feat._Jenny_Plant.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Death by Flying Saucer",
+      "artist": "Huron John",
+      "has_synced": false,
+      "path": "select/05_Death_by_Flying_Saucer_Huron_John.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Evil Death Roll",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": false,
+      "path": "select/06_Evil_Death_Roll_King_Gizzard_&_The_Lizard_Wizard.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Evil Death Roll - Live in San Francisco '16",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/07_Evil_Death_Roll_-_Live_in_San_Francisco_'16_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Greenhouse Heat Death",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": false,
+      "path": "select/08_Greenhouse_Heat_Death_King_Gizzard_&_The_Lizard_Wizard.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Greenhouse Heat Death",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/09_Greenhouse_Heat_Death_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Life / Death",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/10_Life___Death_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Life\u0000Death",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/11_Life\u0000Death_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Death Stranding",
+      "artist": "CHVRCHES",
+      "has_synced": true,
+      "path": "select/12_Death_Stranding_CHVRCHES.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Vegemite (The Black Death)",
+      "artist": "Amanda Palmer",
+      "has_synced": false,
+      "path": "select/13_Vegemite_(The_Black_Death)_Amanda_Palmer.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Wall Of Death",
+      "artist": "R.E.M.",
+      "has_synced": true,
+      "path": "select/14_Wall_Of_Death_R.E.M..lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Death and All His Friends",
+      "artist": "Coldplay",
+      "has_synced": true,
+      "path": "select/15_Death_and_All_His_Friends_Coldplay.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Black Angel's Death Song",
+      "artist": "The Velvet Underground",
+      "has_synced": true,
+      "path": "select/16_The_Black_Angel's_Death_Song_The_Velvet_Underground.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "The Black Angel's Death Song",
+      "artist": "The Velvet Underground & Nico",
+      "has_synced": true,
+      "path": "select/17_The_Black_Angel's_Death_Song_The_Velvet_Underground_&_Nico.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "The Glorious Death",
+      "artist": "馮曦妤",
+      "has_synced": false,
+      "path": "select/18_The_Glorious_Death_馮曦妤.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "The Glorious Death (电影“千机变”插曲)",
+      "artist": "冯曦妤",
+      "has_synced": false,
+      "path": "select/19_The_Glorious_Death_(电影“千机变”插曲)_冯曦妤.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DEATHとLOVE",
+      "artist": "BaseBallBear",
+      "has_synced": false,
+      "path": "select/pl_01_DEATHとLOVE_BaseBallBear.txt"
+    }
+  ]
+}
